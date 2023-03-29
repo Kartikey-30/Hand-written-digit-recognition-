@@ -1,2 +1,2 @@
 # Hand-written-digit-recognition-
-This repository contains a neural network model which recognizes and predicts the hand written digits from 0-9.
+In this notebook we will classify handwritten digits using a simple neural network which has only input and output layers. We will than add a hidden layer and see how the performance of the model improves.
